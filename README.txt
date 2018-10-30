@@ -8,10 +8,9 @@ These scripts contain the code (R and Python) to simulate precipitations in Sant
 	- ggplot2 
 
 	
-	
 #### Python implementation ####
 - All the code is contained in simulation.py.
-- To execute yhis script you will need:
+- To execute this script you will need:
 	- Python 3.X
 	- Numpy
 	- Scipy
